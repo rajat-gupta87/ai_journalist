@@ -1,5 +1,5 @@
 """
-AI Journalist Agent — Powered by Google Gemini 1.5 Flash
+AI Journalist Agent — Powered by Google Gemini 2.0 Flash
 A three-agent pipeline: Searcher → Writer → Editor
 Run with: streamlit run ai_journalist.py
 """
