@@ -120,5 +120,9 @@ http://localhost:8501
 Rajat Gupta
 
 ---
+## 🚀 Live Demo  
+👉 https://ai-journalist-rajat.streamlit.app
+
+---
 
 ⭐ If you like this project, consider giving it a star!
